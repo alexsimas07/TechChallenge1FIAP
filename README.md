@@ -1,4 +1,4 @@
-# 💸 Projeto da Primeira Fase da Pós Graduação Tech - Desenvolvimento em IA - FIAP
+# 🏥Projeto da Primeira Fase da Pós Graduação Tech - Desenvolvimento em IA - FIAP
 
 ![Badge Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -6,9 +6,7 @@
 
 ## 🔍 Sobre o Projeto
 
-Este projeto tem como objetivo desenvolver um modelo de machine learning para identificar **fraudes em transações bancárias**, utilizando um dataset sintético realista que simula o comportamento de usuários e fraudadores em um sistema financeiro ao longo de 30 dias.
-
-A detecção de fraudes é uma das aplicações mais importantes e desafiadoras do aprendizado de máquina, exigindo modelos precisos, escaláveis e capazes de lidar com grandes volumes de dados altamente desbalanceados. Neste projeto, apliquei técnicas de **engenharia de atributos, balanceamento de classes e modelagem supervisionada**, resultando em um sistema robusto e eficiente para flagrar transações suspeitas.
+Este projeto tem como objetivo desenvolver um modelo de machine learning para previsão de gastos do plano de saúde.
 
 ---
 
@@ -24,35 +22,35 @@ A detecção de fraudes é uma das aplicações mais importantes e desafiadoras 
 
 ## 📈 Resultados
 
-- Detecção eficiente de padrões de fraude com **alta taxa de recall e baixo número de falsos negativos**
-- Geração de um pipeline de predição pronto para ser integrado em sistemas antifraude de instituições financeiras
-- Insights valiosos sobre o comportamento de agentes maliciosos e o impacto de grandes transações no sistema
+- Mesmo com dataset limitado, chegamos a um R² acima de 0.80, o que torna o nosso modelo aceitável para fazer previsão de gastos hospitalares.
+- Aprendizagem de Técnicas de normalização e aplicação de algoritmos resistentes a assimétria.
 
 ---
 
-## 💡 Diferenciais do Projeto
-
-- Dataset realista com **características operacionais típicas de bancos digitais**
-- Abordagem prática para problemas de **desbalanceamento severo de classes**
-- Aplicabilidade direta em fintechs, bancos e instituições financeiras
-- Explicações claras para cada decisão de modelagem e engenharia de dados
-- Código limpo, modularizado e comentado para fácil manutenção e expansão
-
----
-
-## 👨‍💼 Autor
+## 👨‍💼 Autores
 
 **Alexsander Maia Simas**  
-Cientista de Dados JR | Especialista em Energia Solar\
+Cientista de Dados JR | Especialista em Energia Solar
 [LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto:alexsandermaiat2@gmail.com)
+
+**Leonardo Guedes**  
+Desenvolvedor de Software 
+[LinkedIn](https://www.linkedin.com/in/barros-leonardo/)
+
+**Ruâni Filipe de Albuquerque e Silva**  
+FullStack Software Engineer
+[LinkedIn](https://www.linkedin.com/in/ruani-filipe-albuquerque/)
+
+**Talita Hipólito**  
+Compliance Regulatório 
+[LinkedIn](https://www.linkedin.com/in/talita-hipólito-0b7101113/)
+
+**Talita Hipólito**  
+Compliance Regulatório 
+[LinkedIn](https://www.linkedin.com/in/talita-hipólito-0b7101113/)
 
 ---
 
 ## 📚 Licença
 
 Projeto open-source sob licença MIT. Livre para uso, modificação e contribuição. Confira o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
-💬 *"Detecção de fraude não é apenas sobre prever o improvável — é sobre proteger o que mais importa."*  
-Se você trabalha com segurança de dados financeiros e quer entender como o ML pode atuar como primeira linha de defesa, **este projeto é pra você!**
